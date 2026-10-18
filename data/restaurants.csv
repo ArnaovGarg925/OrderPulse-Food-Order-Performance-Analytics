@@ -1,0 +1,81 @@
+restaurant_id,restaurant_name,cuisine,city,rating,cost_for_two,is_active
+REST_0001,Flavors of Bites,Fast Food,Hyderabad,4.2,450,True
+REST_0002,Tandoori Junction,Mughlai,Mumbai,3.7,300,True
+REST_0003,Cafe Junction,North Indian,Hyderabad,4.1,800,False
+REST_0004,Taco Hub,Fast Food,Chennai,3.8,800,True
+REST_0005,Mama Darbar,Chinese,Mumbai,4.3,450,True
+REST_0006,Sweet House,Italian,Pune,4.5,450,True
+REST_0007,Green Junction,North Indian,Pune,4.1,800,True
+REST_0008,Bistro Villa,Fast Food,Mumbai,4.3,1400,True
+REST_0009,The Great Grill,Fast Food,Pune,4.2,800,True
+REST_0010,Little Corner,Mughlai,Hyderabad,4.3,1000,True
+REST_0011,Little House,Fast Food,Mumbai,4.5,1400,True
+REST_0012,Spice Point,Chinese,Delhi,4.1,1400,True
+REST_0013,Golden Express,North Indian,Chennai,4.6,800,True
+REST_0014,Paradise Darbar,Biryani,Kolkata,4.1,300,True
+REST_0015,Paradise Corner,Chinese,Hyderabad,3.6,450,True
+REST_0016,Curry Boutique,Mughlai,Kolkata,3.4,600,True
+REST_0017,Sweet Darbar,Chinese,Bengaluru,4.4,800,True
+REST_0018,Cafe House,Desserts & Bakery,Hyderabad,3.8,1000,True
+REST_0019,Mama House,Desserts & Bakery,Kolkata,4.4,300,False
+REST_0020,Sweet Kitchen,Fast Food,Hyderabad,4.7,1400,True
+REST_0021,Bella Villa,Chinese,Hyderabad,4.1,800,True
+REST_0022,Urban Junction,Mughlai,Bengaluru,4.1,1400,True
+REST_0023,Curry Corner,Biryani,Pune,3.7,300,True
+REST_0024,Curry Darbar,Healthy & Salads,Hyderabad,4.0,800,True
+REST_0025,Cafe House,Italian,Bengaluru,4.6,300,True
+REST_0026,Flavors of Grill,Mughlai,Delhi,4.4,800,False
+REST_0027,Bistro Bites,Desserts & Bakery,Chennai,3.8,1400,True
+REST_0028,Flavors of Kitchen,Italian,Bengaluru,4.0,450,True
+REST_0029,Sweet Darbar,Italian,Kolkata,4.1,800,True
+REST_0030,Chaat Hub,Chinese,Chennai,4.2,1400,True
+REST_0031,Daily Grill,Mughlai,Bengaluru,4.6,1400,True
+REST_0032,Bistro Darbar,Desserts & Bakery,Kolkata,4.1,450,True
+REST_0033,Royal Boutique,Biryani,Mumbai,4.9,450,True
+REST_0034,Bawarchi Dine,Chinese,Chennai,4.1,1400,True
+REST_0035,Golden Corner,Healthy & Salads,Delhi,4.2,800,False
+REST_0036,Grand Hub,Chinese,Delhi,4.0,800,True
+REST_0037,Bawarchi Kitchen,Mughlai,Pune,4.0,800,True
+REST_0038,Little Grill,North Indian,Mumbai,4.9,1400,True
+REST_0039,Chaat Boutique,Desserts & Bakery,Kolkata,3.6,600,False
+REST_0040,Bella House,Desserts & Bakery,Hyderabad,3.9,1400,True
+REST_0041,Grand Treat,Mughlai,Delhi,3.8,600,True
+REST_0042,Curry Court,Italian,Chennai,4.1,800,True
+REST_0043,Grand Dine,Fast Food,Hyderabad,4.5,450,True
+REST_0044,Bella Kitchen,Mughlai,Delhi,4.2,1000,True
+REST_0045,Grand Villa,Fast Food,Pune,3.4,1400,True
+REST_0046,Sweet Villa,Desserts & Bakery,Kolkata,4.4,1400,True
+REST_0047,Flavors of House,Mughlai,Kolkata,4.4,300,True
+REST_0048,Tandoori Junction,Chinese,Delhi,4.8,1000,True
+REST_0049,Bistro Kitchen,Desserts & Bakery,Hyderabad,4.2,300,True
+REST_0050,Sweet Junction,Italian,Bengaluru,4.3,450,True
+REST_0051,Golden Bites,Healthy & Salads,Mumbai,3.7,300,True
+REST_0052,Dragon Point,Mughlai,Bengaluru,4.4,600,True
+REST_0053,Urban Grill,Healthy & Salads,Bengaluru,4.0,1400,True
+REST_0054,Saffron Grill,North Indian,Hyderabad,3.8,300,True
+REST_0055,Taco Treat,South Indian,Kolkata,4.0,300,True
+REST_0056,Bistro Boutique,Fast Food,Delhi,4.2,800,True
+REST_0057,The Great Junction,Mughlai,Chennai,4.0,450,True
+REST_0058,Curry Point,Biryani,Hyderabad,3.9,300,True
+REST_0059,Bistro Express,Mughlai,Bengaluru,4.3,1400,True
+REST_0060,Sweet Kitchen,Fast Food,Chennai,4.5,450,True
+REST_0061,Bawarchi Junction,Healthy & Salads,Hyderabad,4.3,800,True
+REST_0062,Sweet Bites,Healthy & Salads,Kolkata,3.8,300,True
+REST_0063,Bella Darbar,North Indian,Chennai,4.5,450,True
+REST_0064,Spice Villa,Desserts & Bakery,Kolkata,4.4,1400,True
+REST_0065,Grand Point,North Indian,Chennai,3.9,600,True
+REST_0066,Bistro Boutique,Healthy & Salads,Kolkata,3.8,1400,True
+REST_0067,Cafe Court,Fast Food,Mumbai,3.3,1400,True
+REST_0068,Daily Point,Biryani,Pune,4.0,1000,True
+REST_0069,Little Dine,Fast Food,Kolkata,4.3,300,False
+REST_0070,Urban Express,Fast Food,Hyderabad,3.4,1000,True
+REST_0071,Taco Corner,South Indian,Pune,3.5,450,False
+REST_0072,Cafe Kitchen,Healthy & Salads,Pune,4.1,600,True
+REST_0073,Spice Grill,Healthy & Salads,Mumbai,3.8,600,True
+REST_0074,Bistro House,South Indian,Hyderabad,4.6,1400,False
+REST_0075,Green House,Fast Food,Delhi,4.0,1400,True
+REST_0076,Bistro Corner,Biryani,Bengaluru,3.3,1400,True
+REST_0077,Paradise Express,Chinese,Chennai,4.2,1000,True
+REST_0078,The Great Junction,Fast Food,Hyderabad,4.0,1400,True
+REST_0079,Golden Treat,Desserts & Bakery,Mumbai,4.0,450,True
+REST_0080,Bella Dine,Fast Food,Chennai,4.3,1000,True
