@@ -1,0 +1,613 @@
+item_id,restaurant_id,item_name,category,is_veg,price
+ITEM_00001,REST_0001,Veg Cheese Sandwich,Main Course,True,140.0
+ITEM_00002,REST_0001,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00003,REST_0001,Peri Peri Fries,Appetizer,True,120.0
+ITEM_00004,REST_0001,Cold Coffee with Ice Cream,Beverage,True,140.0
+ITEM_00005,REST_0001,Oreo Thick Shake,Beverage,True,140.0
+ITEM_00006,REST_0001,French Fries (Large),Appetizer,True,130.0
+ITEM_00007,REST_0001,Crispy Chicken Burger,Main Course,False,250.0
+ITEM_00008,REST_0001,Veg Whopper Burger,Main Course,True,160.0
+ITEM_00009,REST_0002,Galouti Kebab (4 pcs),Appetizer,False,320.0
+ITEM_00010,REST_0002,Phirni,Dessert,True,100.0
+ITEM_00011,REST_0002,Mutton Rogan Josh,Main Course,False,380.0
+ITEM_00012,REST_0002,Chicken Korma,Main Course,False,340.0
+ITEM_00013,REST_0002,Shahi Paneer,Main Course,True,290.0
+ITEM_00014,REST_0002,Mughlai Paratha,Breads & Rice,False,200.0
+ITEM_00015,REST_0002,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00016,REST_0002,Oreo Thick Shake,Beverage,True,160.0
+ITEM_00017,REST_0002,Choco Lava Cake,Dessert,True,130.0
+ITEM_00018,REST_0003,Gulab Jamun (2 pcs),Dessert,True,90.0
+ITEM_00019,REST_0003,Chicken Tikka,Appetizer,False,260.0
+ITEM_00020,REST_0003,Paneer Butter Masala,Main Course,True,270.0
+ITEM_00021,REST_0003,Butter Naan,Breads & Rice,True,60.0
+ITEM_00022,REST_0003,Jeera Rice,Breads & Rice,True,160.0
+ITEM_00023,REST_0003,Dal Makhani,Main Course,True,240.0
+ITEM_00024,REST_0003,Tandoori Roti,Breads & Rice,True,30.0
+ITEM_00025,REST_0004,Oreo Thick Shake,Beverage,True,170.0
+ITEM_00026,REST_0004,Peri Peri Fries,Appetizer,True,120.0
+ITEM_00027,REST_0004,Cold Coffee with Ice Cream,Beverage,True,140.0
+ITEM_00028,REST_0004,Veg Cheese Sandwich,Main Course,True,110.0
+ITEM_00029,REST_0004,Crispy Chicken Burger,Main Course,False,230.0
+ITEM_00030,REST_0004,Veg Whopper Burger,Main Course,True,190.0
+ITEM_00031,REST_0004,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00032,REST_0004,French Fries (Large),Appetizer,True,130.0
+ITEM_00033,REST_0005,Veg Hakka Noodles,Main Course,True,200.0
+ITEM_00034,REST_0005,Hot & Sour Soup,Appetizer,True,130.0
+ITEM_00035,REST_0005,Chilli Chicken Gravy,Main Course,False,290.0
+ITEM_00036,REST_0005,Veg Manchurian Dry,Appetizer,True,210.0
+ITEM_00037,REST_0005,Veg Momos (6 pcs),Appetizer,True,130.0
+ITEM_00038,REST_0005,Chicken Momos (6 pcs),Appetizer,False,200.0
+ITEM_00039,REST_0005,Spring Rolls (4 pcs),Appetizer,True,150.0
+ITEM_00040,REST_0005,Chicken Fried Rice,Main Course,False,230.0
+ITEM_00041,REST_0005,Cold Coffee with Ice Cream,Beverage,True,150.0
+ITEM_00042,REST_0005,Belgian Chocolate Waffle,Dessert,True,180.0
+ITEM_00043,REST_0006,Margherita Pizza,Main Course,True,360.0
+ITEM_00044,REST_0006,Chicken Pepperoni Pizza,Main Course,False,470.0
+ITEM_00045,REST_0006,Farmhouse Veg Pizza,Main Course,True,360.0
+ITEM_00046,REST_0006,Penne Arrabbiata Chicken,Main Course,False,430.0
+ITEM_00047,REST_0006,Garlic Bread with Cheese,Appetizer,True,150.0
+ITEM_00048,REST_0006,Penne Alfredo Veg,Main Course,True,330.0
+ITEM_00049,REST_0006,Tiramisu Cup,Dessert,True,190.0
+ITEM_00050,REST_0007,Chicken Tikka,Appetizer,False,270.0
+ITEM_00051,REST_0007,Tandoori Roti,Breads & Rice,True,40.0
+ITEM_00052,REST_0007,Dal Makhani,Main Course,True,250.0
+ITEM_00053,REST_0007,Paneer Butter Masala,Main Course,True,240.0
+ITEM_00054,REST_0007,Gulab Jamun (2 pcs),Dessert,True,100.0
+ITEM_00055,REST_0007,Jeera Rice,Breads & Rice,True,140.0
+ITEM_00056,REST_0007,Paneer Tikka,Appetizer,True,290.0
+ITEM_00057,REST_0007,Garlic Naan,Breads & Rice,True,70.0
+ITEM_00058,REST_0007,Oreo Thick Shake,Beverage,True,140.0
+ITEM_00059,REST_0007,Choco Lava Cake,Dessert,True,100.0
+ITEM_00060,REST_0008,Veg Cheese Sandwich,Main Course,True,130.0
+ITEM_00061,REST_0008,Peri Peri Fries,Appetizer,True,140.0
+ITEM_00062,REST_0008,Veg Whopper Burger,Main Course,True,210.0
+ITEM_00063,REST_0008,Cold Coffee with Ice Cream,Beverage,True,120.0
+ITEM_00064,REST_0008,Crispy Chicken Burger,Main Course,False,210.0
+ITEM_00065,REST_0008,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00066,REST_0008,French Fries (Large),Appetizer,True,100.0
+ITEM_00067,REST_0008,Oreo Thick Shake,Beverage,True,140.0
+ITEM_00068,REST_0009,Veg Whopper Burger,Main Course,True,170.0
+ITEM_00069,REST_0009,French Fries (Large),Appetizer,True,110.0
+ITEM_00070,REST_0009,Veg Cheese Sandwich,Main Course,True,110.0
+ITEM_00071,REST_0009,Cold Coffee with Ice Cream,Beverage,True,130.0
+ITEM_00072,REST_0009,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00073,REST_0009,Peri Peri Fries,Appetizer,True,160.0
+ITEM_00074,REST_0009,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00075,REST_0010,Phirni,Dessert,True,90.0
+ITEM_00076,REST_0010,Chicken Korma,Main Course,False,450.0
+ITEM_00077,REST_0010,Roomali Roti,Breads & Rice,True,40.0
+ITEM_00078,REST_0010,Galouti Kebab (4 pcs),Appetizer,False,420.0
+ITEM_00079,REST_0010,Shahi Paneer,Main Course,True,300.0
+ITEM_00080,REST_0010,Mughlai Paratha,Breads & Rice,False,180.0
+ITEM_00081,REST_0010,Mutton Rogan Josh,Main Course,False,500.0
+ITEM_00082,REST_0010,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00083,REST_0010,Belgian Chocolate Waffle,Dessert,True,190.0
+ITEM_00084,REST_0011,Veg Cheese Sandwich,Main Course,True,120.0
+ITEM_00085,REST_0011,Veg Whopper Burger,Main Course,True,160.0
+ITEM_00086,REST_0011,Crispy Chicken Burger,Main Course,False,200.0
+ITEM_00087,REST_0011,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00088,REST_0011,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00089,REST_0011,Cold Coffee with Ice Cream,Beverage,True,130.0
+ITEM_00090,REST_0011,Peri Peri Fries,Appetizer,True,140.0
+ITEM_00091,REST_0012,Hot & Sour Soup,Appetizer,True,120.0
+ITEM_00092,REST_0012,Veg Momos (6 pcs),Appetizer,True,160.0
+ITEM_00093,REST_0012,Veg Manchurian Dry,Appetizer,True,210.0
+ITEM_00094,REST_0012,Chilli Chicken Gravy,Main Course,False,230.0
+ITEM_00095,REST_0012,Chicken Momos (6 pcs),Appetizer,False,190.0
+ITEM_00096,REST_0012,Veg Hakka Noodles,Main Course,True,220.0
+ITEM_00097,REST_0012,Chicken Fried Rice,Main Course,False,250.0
+ITEM_00098,REST_0012,Spring Rolls (4 pcs),Appetizer,True,170.0
+ITEM_00099,REST_0012,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00100,REST_0012,Red Velvet Pastry,Dessert,True,150.0
+ITEM_00101,REST_0013,Jeera Rice,Breads & Rice,True,150.0
+ITEM_00102,REST_0013,Dal Makhani,Main Course,True,210.0
+ITEM_00103,REST_0013,Gulab Jamun (2 pcs),Dessert,True,90.0
+ITEM_00104,REST_0013,Tandoori Roti,Breads & Rice,True,30.0
+ITEM_00105,REST_0013,Paneer Butter Masala,Main Course,True,230.0
+ITEM_00106,REST_0013,Garlic Naan,Breads & Rice,True,70.0
+ITEM_00107,REST_0013,Butter Chicken,Main Course,False,390.0
+ITEM_00108,REST_0013,Paneer Tikka,Appetizer,True,260.0
+ITEM_00109,REST_0013,Butter Naan,Breads & Rice,True,50.0
+ITEM_00110,REST_0014,Chicken 65,Appetizer,False,270.0
+ITEM_00111,REST_0014,Mirchi Ka Salan,Main Course,True,120.0
+ITEM_00112,REST_0014,Raita,Breads & Rice,True,50.0
+ITEM_00113,REST_0014,Paneer Dum Biryani,Main Course,True,300.0
+ITEM_00114,REST_0014,Hyderabadi Mutton Biryani,Main Course,False,470.0
+ITEM_00115,REST_0014,Hyderabadi Chicken Dum Biryani,Main Course,False,260.0
+ITEM_00116,REST_0015,Chilli Chicken Gravy,Main Course,False,290.0
+ITEM_00117,REST_0015,Veg Hakka Noodles,Main Course,True,200.0
+ITEM_00118,REST_0015,Chicken Fried Rice,Main Course,False,240.0
+ITEM_00119,REST_0015,Veg Momos (6 pcs),Appetizer,True,130.0
+ITEM_00120,REST_0015,Chicken Momos (6 pcs),Appetizer,False,170.0
+ITEM_00121,REST_0015,Hot & Sour Soup,Appetizer,True,120.0
+ITEM_00122,REST_0015,Veg Manchurian Dry,Appetizer,True,190.0
+ITEM_00123,REST_0015,Spring Rolls (4 pcs),Appetizer,True,180.0
+ITEM_00124,REST_0015,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00125,REST_0015,Belgian Chocolate Waffle,Dessert,True,210.0
+ITEM_00126,REST_0016,Chicken Korma,Main Course,False,400.0
+ITEM_00127,REST_0016,Mughlai Paratha,Breads & Rice,False,200.0
+ITEM_00128,REST_0016,Mutton Rogan Josh,Main Course,False,390.0
+ITEM_00129,REST_0016,Shahi Paneer,Main Course,True,340.0
+ITEM_00130,REST_0016,Galouti Kebab (4 pcs),Appetizer,False,360.0
+ITEM_00131,REST_0016,Phirni,Dessert,True,110.0
+ITEM_00132,REST_0016,Roomali Roti,Breads & Rice,True,40.0
+ITEM_00133,REST_0017,Veg Momos (6 pcs),Appetizer,True,150.0
+ITEM_00134,REST_0017,Veg Manchurian Dry,Appetizer,True,190.0
+ITEM_00135,REST_0017,Spring Rolls (4 pcs),Appetizer,True,190.0
+ITEM_00136,REST_0017,Veg Hakka Noodles,Main Course,True,210.0
+ITEM_00137,REST_0017,Chicken Fried Rice,Main Course,False,270.0
+ITEM_00138,REST_0017,Hot & Sour Soup,Appetizer,True,130.0
+ITEM_00139,REST_0017,Chilli Chicken Gravy,Main Course,False,300.0
+ITEM_00140,REST_0017,Chicken Momos (6 pcs),Appetizer,False,220.0
+ITEM_00141,REST_0017,Oreo Thick Shake,Beverage,True,180.0
+ITEM_00142,REST_0017,Choco Lava Cake,Dessert,True,110.0
+ITEM_00143,REST_0018,Belgian Chocolate Waffle,Dessert,True,220.0
+ITEM_00144,REST_0018,Choco Lava Cake,Dessert,True,120.0
+ITEM_00145,REST_0018,Brownie with Hot Fudge,Dessert,True,180.0
+ITEM_00146,REST_0018,Butterscotch Sundae,Dessert,True,150.0
+ITEM_00147,REST_0018,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00148,REST_0018,Blueberry Cheesecake Slice,Dessert,True,210.0
+ITEM_00149,REST_0019,Belgian Chocolate Waffle,Dessert,True,220.0
+ITEM_00150,REST_0019,Choco Lava Cake,Dessert,True,120.0
+ITEM_00151,REST_0019,Blueberry Cheesecake Slice,Dessert,True,260.0
+ITEM_00152,REST_0019,Butterscotch Sundae,Dessert,True,170.0
+ITEM_00153,REST_0019,Brownie with Hot Fudge,Dessert,True,180.0
+ITEM_00154,REST_0019,Red Velvet Pastry,Dessert,True,120.0
+ITEM_00155,REST_0020,Veg Whopper Burger,Main Course,True,210.0
+ITEM_00156,REST_0020,Peri Peri Fries,Appetizer,True,140.0
+ITEM_00157,REST_0020,French Fries (Large),Appetizer,True,110.0
+ITEM_00158,REST_0020,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00159,REST_0020,Crispy Chicken Burger,Main Course,False,190.0
+ITEM_00160,REST_0020,Veg Cheese Sandwich,Main Course,True,140.0
+ITEM_00161,REST_0021,Spring Rolls (4 pcs),Appetizer,True,160.0
+ITEM_00162,REST_0021,Chicken Momos (6 pcs),Appetizer,False,200.0
+ITEM_00163,REST_0021,Chilli Chicken Gravy,Main Course,False,290.0
+ITEM_00164,REST_0021,Hot & Sour Soup,Appetizer,True,120.0
+ITEM_00165,REST_0021,Veg Hakka Noodles,Main Course,True,190.0
+ITEM_00166,REST_0021,Veg Manchurian Dry,Appetizer,True,220.0
+ITEM_00167,REST_0022,Shahi Paneer,Main Course,True,250.0
+ITEM_00168,REST_0022,Mughlai Paratha,Breads & Rice,False,180.0
+ITEM_00169,REST_0022,Mutton Rogan Josh,Main Course,False,470.0
+ITEM_00170,REST_0022,Galouti Kebab (4 pcs),Appetizer,False,410.0
+ITEM_00171,REST_0022,Phirni,Dessert,True,110.0
+ITEM_00172,REST_0022,Chicken Korma,Main Course,False,340.0
+ITEM_00173,REST_0022,Cold Coffee with Ice Cream,Beverage,True,130.0
+ITEM_00174,REST_0022,Choco Lava Cake,Dessert,True,110.0
+ITEM_00175,REST_0023,Double Ka Meetha,Dessert,True,110.0
+ITEM_00176,REST_0023,Hyderabadi Mutton Biryani,Main Course,False,380.0
+ITEM_00177,REST_0023,Raita,Breads & Rice,True,60.0
+ITEM_00178,REST_0023,Mirchi Ka Salan,Main Course,True,120.0
+ITEM_00179,REST_0023,Hyderabadi Chicken Dum Biryani,Main Course,False,280.0
+ITEM_00180,REST_0023,Veg Dum Biryani,Main Course,True,210.0
+ITEM_00181,REST_0023,Paneer Dum Biryani,Main Course,True,240.0
+ITEM_00182,REST_0023,Chicken 65,Appetizer,False,250.0
+ITEM_00183,REST_0023,Soft Drink (500ml),Beverage,True,50.0
+ITEM_00184,REST_0023,Belgian Chocolate Waffle,Dessert,True,210.0
+ITEM_00185,REST_0024,Greek Salad with Feta,Main Course,True,270.0
+ITEM_00186,REST_0024,Grilled Chicken Caesar Salad,Main Course,False,280.0
+ITEM_00187,REST_0024,Protein Smoothie Bowl,Main Course,True,200.0
+ITEM_00188,REST_0024,Cold Pressed Green Juice,Beverage,True,140.0
+ITEM_00189,REST_0024,Quinoa & Veggie Bowl,Main Course,True,290.0
+ITEM_00190,REST_0024,Fresh Fruit Bowl,Dessert,True,180.0
+ITEM_00191,REST_0025,Penne Arrabbiata Chicken,Main Course,False,430.0
+ITEM_00192,REST_0025,Garlic Bread with Cheese,Appetizer,True,190.0
+ITEM_00193,REST_0025,Chicken Pepperoni Pizza,Main Course,False,480.0
+ITEM_00194,REST_0025,Tiramisu Cup,Dessert,True,220.0
+ITEM_00195,REST_0025,Penne Alfredo Veg,Main Course,True,350.0
+ITEM_00196,REST_0025,Farmhouse Veg Pizza,Main Course,True,450.0
+ITEM_00197,REST_0025,Margherita Pizza,Main Course,True,340.0
+ITEM_00198,REST_0025,Cold Coffee with Ice Cream,Beverage,True,120.0
+ITEM_00199,REST_0025,Red Velvet Pastry,Dessert,True,140.0
+ITEM_00200,REST_0026,Phirni,Dessert,True,80.0
+ITEM_00201,REST_0026,Mughlai Paratha,Breads & Rice,False,150.0
+ITEM_00202,REST_0026,Galouti Kebab (4 pcs),Appetizer,False,340.0
+ITEM_00203,REST_0026,Chicken Korma,Main Course,False,350.0
+ITEM_00204,REST_0026,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00205,REST_0026,Mutton Rogan Josh,Main Course,False,490.0
+ITEM_00206,REST_0026,Shahi Paneer,Main Course,True,260.0
+ITEM_00207,REST_0026,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00208,REST_0026,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00209,REST_0027,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00210,REST_0027,Belgian Chocolate Waffle,Dessert,True,180.0
+ITEM_00211,REST_0027,Blueberry Cheesecake Slice,Dessert,True,220.0
+ITEM_00212,REST_0027,Butterscotch Sundae,Dessert,True,140.0
+ITEM_00213,REST_0027,Choco Lava Cake,Dessert,True,130.0
+ITEM_00214,REST_0027,Brownie with Hot Fudge,Dessert,True,150.0
+ITEM_00215,REST_0028,Chicken Pepperoni Pizza,Main Course,False,510.0
+ITEM_00216,REST_0028,Farmhouse Veg Pizza,Main Course,True,480.0
+ITEM_00217,REST_0028,Tiramisu Cup,Dessert,True,220.0
+ITEM_00218,REST_0028,Penne Alfredo Veg,Main Course,True,390.0
+ITEM_00219,REST_0028,Margherita Pizza,Main Course,True,390.0
+ITEM_00220,REST_0028,Garlic Bread with Cheese,Appetizer,True,190.0
+ITEM_00221,REST_0029,Margherita Pizza,Main Course,True,340.0
+ITEM_00222,REST_0029,Farmhouse Veg Pizza,Main Course,True,440.0
+ITEM_00223,REST_0029,Garlic Bread with Cheese,Appetizer,True,200.0
+ITEM_00224,REST_0029,Penne Arrabbiata Chicken,Main Course,False,420.0
+ITEM_00225,REST_0029,Tiramisu Cup,Dessert,True,200.0
+ITEM_00226,REST_0029,Penne Alfredo Veg,Main Course,True,370.0
+ITEM_00227,REST_0029,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00228,REST_0029,Belgian Chocolate Waffle,Dessert,True,180.0
+ITEM_00229,REST_0030,Veg Hakka Noodles,Main Course,True,210.0
+ITEM_00230,REST_0030,Hot & Sour Soup,Appetizer,True,140.0
+ITEM_00231,REST_0030,Veg Manchurian Dry,Appetizer,True,180.0
+ITEM_00232,REST_0030,Chicken Fried Rice,Main Course,False,230.0
+ITEM_00233,REST_0030,Chilli Chicken Gravy,Main Course,False,310.0
+ITEM_00234,REST_0030,Veg Momos (6 pcs),Appetizer,True,160.0
+ITEM_00235,REST_0030,Chicken Momos (6 pcs),Appetizer,False,190.0
+ITEM_00236,REST_0031,Chicken Korma,Main Course,False,440.0
+ITEM_00237,REST_0031,Shahi Paneer,Main Course,True,310.0
+ITEM_00238,REST_0031,Mughlai Paratha,Breads & Rice,False,150.0
+ITEM_00239,REST_0031,Galouti Kebab (4 pcs),Appetizer,False,330.0
+ITEM_00240,REST_0031,Roomali Roti,Breads & Rice,True,40.0
+ITEM_00241,REST_0031,Phirni,Dessert,True,110.0
+ITEM_00242,REST_0031,Mutton Rogan Josh,Main Course,False,440.0
+ITEM_00243,REST_0031,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00244,REST_0031,Belgian Chocolate Waffle,Dessert,True,230.0
+ITEM_00245,REST_0032,Belgian Chocolate Waffle,Dessert,True,200.0
+ITEM_00246,REST_0032,Blueberry Cheesecake Slice,Dessert,True,230.0
+ITEM_00247,REST_0032,Choco Lava Cake,Dessert,True,120.0
+ITEM_00248,REST_0032,Butterscotch Sundae,Dessert,True,160.0
+ITEM_00249,REST_0032,Brownie with Hot Fudge,Dessert,True,180.0
+ITEM_00250,REST_0032,Red Velvet Pastry,Dessert,True,140.0
+ITEM_00251,REST_0033,Raita,Breads & Rice,True,60.0
+ITEM_00252,REST_0033,Veg Dum Biryani,Main Course,True,220.0
+ITEM_00253,REST_0033,Paneer Dum Biryani,Main Course,True,220.0
+ITEM_00254,REST_0033,Double Ka Meetha,Dessert,True,110.0
+ITEM_00255,REST_0033,Mirchi Ka Salan,Main Course,True,110.0
+ITEM_00256,REST_0033,Hyderabadi Mutton Biryani,Main Course,False,430.0
+ITEM_00257,REST_0033,Chicken 65,Appetizer,False,280.0
+ITEM_00258,REST_0033,Hyderabadi Chicken Dum Biryani,Main Course,False,360.0
+ITEM_00259,REST_0033,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00260,REST_0033,Red Velvet Pastry,Dessert,True,120.0
+ITEM_00261,REST_0034,Chilli Chicken Gravy,Main Course,False,300.0
+ITEM_00262,REST_0034,Veg Manchurian Dry,Appetizer,True,230.0
+ITEM_00263,REST_0034,Chicken Fried Rice,Main Course,False,210.0
+ITEM_00264,REST_0034,Chicken Momos (6 pcs),Appetizer,False,200.0
+ITEM_00265,REST_0034,Spring Rolls (4 pcs),Appetizer,True,150.0
+ITEM_00266,REST_0034,Hot & Sour Soup,Appetizer,True,160.0
+ITEM_00267,REST_0035,Greek Salad with Feta,Main Course,True,280.0
+ITEM_00268,REST_0035,Quinoa & Veggie Bowl,Main Course,True,240.0
+ITEM_00269,REST_0035,Cold Pressed Green Juice,Beverage,True,160.0
+ITEM_00270,REST_0035,Grilled Chicken Caesar Salad,Main Course,False,360.0
+ITEM_00271,REST_0035,Fresh Fruit Bowl,Dessert,True,200.0
+ITEM_00272,REST_0035,Protein Smoothie Bowl,Main Course,True,260.0
+ITEM_00273,REST_0036,Chilli Chicken Gravy,Main Course,False,280.0
+ITEM_00274,REST_0036,Hot & Sour Soup,Appetizer,True,150.0
+ITEM_00275,REST_0036,Chicken Momos (6 pcs),Appetizer,False,180.0
+ITEM_00276,REST_0036,Chicken Fried Rice,Main Course,False,210.0
+ITEM_00277,REST_0036,Veg Momos (6 pcs),Appetizer,True,160.0
+ITEM_00278,REST_0036,Veg Hakka Noodles,Main Course,True,210.0
+ITEM_00279,REST_0036,Spring Rolls (4 pcs),Appetizer,True,160.0
+ITEM_00280,REST_0037,Phirni,Dessert,True,80.0
+ITEM_00281,REST_0037,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00282,REST_0037,Mutton Rogan Josh,Main Course,False,500.0
+ITEM_00283,REST_0037,Shahi Paneer,Main Course,True,290.0
+ITEM_00284,REST_0037,Mughlai Paratha,Breads & Rice,False,170.0
+ITEM_00285,REST_0037,Galouti Kebab (4 pcs),Appetizer,False,390.0
+ITEM_00286,REST_0037,Chicken Korma,Main Course,False,370.0
+ITEM_00287,REST_0038,Butter Chicken,Main Course,False,350.0
+ITEM_00288,REST_0038,Paneer Butter Masala,Main Course,True,250.0
+ITEM_00289,REST_0038,Jeera Rice,Breads & Rice,True,140.0
+ITEM_00290,REST_0038,Dal Makhani,Main Course,True,240.0
+ITEM_00291,REST_0038,Chicken Tikka,Appetizer,False,300.0
+ITEM_00292,REST_0038,Butter Naan,Breads & Rice,True,60.0
+ITEM_00293,REST_0038,Garlic Naan,Breads & Rice,True,60.0
+ITEM_00294,REST_0038,Gulab Jamun (2 pcs),Dessert,True,70.0
+ITEM_00295,REST_0038,Oreo Thick Shake,Beverage,True,160.0
+ITEM_00296,REST_0038,Choco Lava Cake,Dessert,True,100.0
+ITEM_00297,REST_0039,Choco Lava Cake,Dessert,True,110.0
+ITEM_00298,REST_0039,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00299,REST_0039,Brownie with Hot Fudge,Dessert,True,170.0
+ITEM_00300,REST_0039,Blueberry Cheesecake Slice,Dessert,True,230.0
+ITEM_00301,REST_0039,Butterscotch Sundae,Dessert,True,150.0
+ITEM_00302,REST_0039,Belgian Chocolate Waffle,Dessert,True,170.0
+ITEM_00303,REST_0040,Butterscotch Sundae,Dessert,True,160.0
+ITEM_00304,REST_0040,Blueberry Cheesecake Slice,Dessert,True,200.0
+ITEM_00305,REST_0040,Red Velvet Pastry,Dessert,True,160.0
+ITEM_00306,REST_0040,Choco Lava Cake,Dessert,True,130.0
+ITEM_00307,REST_0040,Belgian Chocolate Waffle,Dessert,True,180.0
+ITEM_00308,REST_0040,Brownie with Hot Fudge,Dessert,True,160.0
+ITEM_00309,REST_0041,Phirni,Dessert,True,90.0
+ITEM_00310,REST_0041,Mughlai Paratha,Breads & Rice,False,140.0
+ITEM_00311,REST_0041,Galouti Kebab (4 pcs),Appetizer,False,320.0
+ITEM_00312,REST_0041,Chicken Korma,Main Course,False,330.0
+ITEM_00313,REST_0041,Shahi Paneer,Main Course,True,290.0
+ITEM_00314,REST_0041,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00315,REST_0041,Mutton Rogan Josh,Main Course,False,460.0
+ITEM_00316,REST_0041,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00317,REST_0041,Red Velvet Pastry,Dessert,True,160.0
+ITEM_00318,REST_0042,Penne Alfredo Veg,Main Course,True,360.0
+ITEM_00319,REST_0042,Penne Arrabbiata Chicken,Main Course,False,360.0
+ITEM_00320,REST_0042,Margherita Pizza,Main Course,True,360.0
+ITEM_00321,REST_0042,Garlic Bread with Cheese,Appetizer,True,190.0
+ITEM_00322,REST_0042,Farmhouse Veg Pizza,Main Course,True,370.0
+ITEM_00323,REST_0042,Chicken Pepperoni Pizza,Main Course,False,440.0
+ITEM_00324,REST_0042,Tiramisu Cup,Dessert,True,220.0
+ITEM_00325,REST_0043,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00326,REST_0043,Peri Peri Fries,Appetizer,True,120.0
+ITEM_00327,REST_0043,Cold Coffee with Ice Cream,Beverage,True,150.0
+ITEM_00328,REST_0043,Crispy Chicken Burger,Main Course,False,230.0
+ITEM_00329,REST_0043,Veg Whopper Burger,Main Course,True,190.0
+ITEM_00330,REST_0043,Veg Cheese Sandwich,Main Course,True,110.0
+ITEM_00331,REST_0043,Oreo Thick Shake,Beverage,True,170.0
+ITEM_00332,REST_0043,French Fries (Large),Appetizer,True,130.0
+ITEM_00333,REST_0044,Galouti Kebab (4 pcs),Appetizer,False,330.0
+ITEM_00334,REST_0044,Roomali Roti,Breads & Rice,True,40.0
+ITEM_00335,REST_0044,Mutton Rogan Josh,Main Course,False,380.0
+ITEM_00336,REST_0044,Shahi Paneer,Main Course,True,310.0
+ITEM_00337,REST_0044,Mughlai Paratha,Breads & Rice,False,180.0
+ITEM_00338,REST_0044,Phirni,Dessert,True,100.0
+ITEM_00339,REST_0044,Chicken Korma,Main Course,False,370.0
+ITEM_00340,REST_0044,Cold Coffee with Ice Cream,Beverage,True,120.0
+ITEM_00341,REST_0044,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00342,REST_0045,Veg Whopper Burger,Main Course,True,200.0
+ITEM_00343,REST_0045,French Fries (Large),Appetizer,True,120.0
+ITEM_00344,REST_0045,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00345,REST_0045,Crispy Chicken Burger,Main Course,False,230.0
+ITEM_00346,REST_0045,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00347,REST_0045,Peri Peri Fries,Appetizer,True,160.0
+ITEM_00348,REST_0046,Butterscotch Sundae,Dessert,True,140.0
+ITEM_00349,REST_0046,Belgian Chocolate Waffle,Dessert,True,180.0
+ITEM_00350,REST_0046,Red Velvet Pastry,Dessert,True,150.0
+ITEM_00351,REST_0046,Choco Lava Cake,Dessert,True,110.0
+ITEM_00352,REST_0046,Brownie with Hot Fudge,Dessert,True,180.0
+ITEM_00353,REST_0046,Blueberry Cheesecake Slice,Dessert,True,200.0
+ITEM_00354,REST_0047,Chicken Korma,Main Course,False,430.0
+ITEM_00355,REST_0047,Galouti Kebab (4 pcs),Appetizer,False,380.0
+ITEM_00356,REST_0047,Shahi Paneer,Main Course,True,320.0
+ITEM_00357,REST_0047,Phirni,Dessert,True,110.0
+ITEM_00358,REST_0047,Mutton Rogan Josh,Main Course,False,440.0
+ITEM_00359,REST_0047,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00360,REST_0047,Mughlai Paratha,Breads & Rice,False,150.0
+ITEM_00361,REST_0047,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00362,REST_0047,Belgian Chocolate Waffle,Dessert,True,220.0
+ITEM_00363,REST_0048,Chilli Chicken Gravy,Main Course,False,310.0
+ITEM_00364,REST_0048,Veg Manchurian Dry,Appetizer,True,220.0
+ITEM_00365,REST_0048,Chicken Fried Rice,Main Course,False,200.0
+ITEM_00366,REST_0048,Hot & Sour Soup,Appetizer,True,160.0
+ITEM_00367,REST_0048,Veg Hakka Noodles,Main Course,True,170.0
+ITEM_00368,REST_0048,Veg Momos (6 pcs),Appetizer,True,170.0
+ITEM_00369,REST_0048,Spring Rolls (4 pcs),Appetizer,True,180.0
+ITEM_00370,REST_0048,Cold Coffee with Ice Cream,Beverage,True,140.0
+ITEM_00371,REST_0048,Red Velvet Pastry,Dessert,True,120.0
+ITEM_00372,REST_0049,Belgian Chocolate Waffle,Dessert,True,230.0
+ITEM_00373,REST_0049,Blueberry Cheesecake Slice,Dessert,True,210.0
+ITEM_00374,REST_0049,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00375,REST_0049,Brownie with Hot Fudge,Dessert,True,160.0
+ITEM_00376,REST_0049,Choco Lava Cake,Dessert,True,110.0
+ITEM_00377,REST_0049,Butterscotch Sundae,Dessert,True,160.0
+ITEM_00378,REST_0050,Margherita Pizza,Main Course,True,300.0
+ITEM_00379,REST_0050,Penne Alfredo Veg,Main Course,True,300.0
+ITEM_00380,REST_0050,Farmhouse Veg Pizza,Main Course,True,390.0
+ITEM_00381,REST_0050,Garlic Bread with Cheese,Appetizer,True,180.0
+ITEM_00382,REST_0050,Tiramisu Cup,Dessert,True,220.0
+ITEM_00383,REST_0050,Chicken Pepperoni Pizza,Main Course,False,420.0
+ITEM_00384,REST_0050,Penne Arrabbiata Chicken,Main Course,False,390.0
+ITEM_00385,REST_0050,Oreo Thick Shake,Beverage,True,190.0
+ITEM_00386,REST_0050,Choco Lava Cake,Dessert,True,130.0
+ITEM_00387,REST_0051,Quinoa & Veggie Bowl,Main Course,True,270.0
+ITEM_00388,REST_0051,Greek Salad with Feta,Main Course,True,290.0
+ITEM_00389,REST_0051,Protein Smoothie Bowl,Main Course,True,240.0
+ITEM_00390,REST_0051,Fresh Fruit Bowl,Dessert,True,160.0
+ITEM_00391,REST_0051,Grilled Chicken Caesar Salad,Main Course,False,320.0
+ITEM_00392,REST_0051,Cold Pressed Green Juice,Beverage,True,150.0
+ITEM_00393,REST_0051,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00394,REST_0051,Belgian Chocolate Waffle,Dessert,True,210.0
+ITEM_00395,REST_0052,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00396,REST_0052,Phirni,Dessert,True,80.0
+ITEM_00397,REST_0052,Mutton Rogan Josh,Main Course,False,430.0
+ITEM_00398,REST_0052,Chicken Korma,Main Course,False,360.0
+ITEM_00399,REST_0052,Mughlai Paratha,Breads & Rice,False,150.0
+ITEM_00400,REST_0052,Shahi Paneer,Main Course,True,270.0
+ITEM_00401,REST_0052,Galouti Kebab (4 pcs),Appetizer,False,310.0
+ITEM_00402,REST_0052,Oreo Thick Shake,Beverage,True,180.0
+ITEM_00403,REST_0052,Choco Lava Cake,Dessert,True,120.0
+ITEM_00404,REST_0053,Protein Smoothie Bowl,Main Course,True,260.0
+ITEM_00405,REST_0053,Quinoa & Veggie Bowl,Main Course,True,310.0
+ITEM_00406,REST_0053,Grilled Chicken Caesar Salad,Main Course,False,280.0
+ITEM_00407,REST_0053,Fresh Fruit Bowl,Dessert,True,190.0
+ITEM_00408,REST_0053,Cold Pressed Green Juice,Beverage,True,140.0
+ITEM_00409,REST_0053,Greek Salad with Feta,Main Course,True,230.0
+ITEM_00410,REST_0053,Oreo Thick Shake,Beverage,True,140.0
+ITEM_00411,REST_0053,Belgian Chocolate Waffle,Dessert,True,230.0
+ITEM_00412,REST_0054,Garlic Naan,Breads & Rice,True,60.0
+ITEM_00413,REST_0054,Chicken Tikka,Appetizer,False,270.0
+ITEM_00414,REST_0054,Butter Chicken,Main Course,False,360.0
+ITEM_00415,REST_0054,Dal Makhani,Main Course,True,210.0
+ITEM_00416,REST_0054,Gulab Jamun (2 pcs),Dessert,True,80.0
+ITEM_00417,REST_0054,Paneer Butter Masala,Main Course,True,240.0
+ITEM_00418,REST_0054,Tandoori Roti,Breads & Rice,True,30.0
+ITEM_00419,REST_0055,Ghee Roast Dosa,Main Course,True,150.0
+ITEM_00420,REST_0055,Idli Sambar (2 pcs),Main Course,True,80.0
+ITEM_00421,REST_0055,Payasam,Dessert,True,90.0
+ITEM_00422,REST_0055,Filter Coffee,Beverage,True,60.0
+ITEM_00423,REST_0055,Curd Rice,Breads & Rice,True,120.0
+ITEM_00424,REST_0055,Medu Vada (2 pcs),Appetizer,True,100.0
+ITEM_00425,REST_0055,Masala Dosa,Main Course,True,120.0
+ITEM_00426,REST_0056,Crispy Chicken Burger,Main Course,False,230.0
+ITEM_00427,REST_0056,French Fries (Large),Appetizer,True,130.0
+ITEM_00428,REST_0056,Peri Peri Fries,Appetizer,True,150.0
+ITEM_00429,REST_0056,Cold Coffee with Ice Cream,Beverage,True,140.0
+ITEM_00430,REST_0056,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00431,REST_0056,Veg Cheese Sandwich,Main Course,True,110.0
+ITEM_00432,REST_0056,Oreo Thick Shake,Beverage,True,160.0
+ITEM_00433,REST_0056,Veg Whopper Burger,Main Course,True,200.0
+ITEM_00434,REST_0057,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00435,REST_0057,Phirni,Dessert,True,100.0
+ITEM_00436,REST_0057,Chicken Korma,Main Course,False,370.0
+ITEM_00437,REST_0057,Mughlai Paratha,Breads & Rice,False,180.0
+ITEM_00438,REST_0057,Galouti Kebab (4 pcs),Appetizer,False,330.0
+ITEM_00439,REST_0057,Shahi Paneer,Main Course,True,340.0
+ITEM_00440,REST_0057,Mutton Rogan Josh,Main Course,False,380.0
+ITEM_00441,REST_0057,Oreo Thick Shake,Beverage,True,180.0
+ITEM_00442,REST_0057,Red Velvet Pastry,Dessert,True,150.0
+ITEM_00443,REST_0058,Double Ka Meetha,Dessert,True,100.0
+ITEM_00444,REST_0058,Veg Dum Biryani,Main Course,True,190.0
+ITEM_00445,REST_0058,Raita,Breads & Rice,True,60.0
+ITEM_00446,REST_0058,Mirchi Ka Salan,Main Course,True,100.0
+ITEM_00447,REST_0058,Paneer Dum Biryani,Main Course,True,260.0
+ITEM_00448,REST_0058,Hyderabadi Mutton Biryani,Main Course,False,370.0
+ITEM_00449,REST_0058,Chicken 65,Appetizer,False,250.0
+ITEM_00450,REST_0058,Hyderabadi Chicken Dum Biryani,Main Course,False,290.0
+ITEM_00451,REST_0058,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00452,REST_0058,Choco Lava Cake,Dessert,True,130.0
+ITEM_00453,REST_0059,Mughlai Paratha,Breads & Rice,False,160.0
+ITEM_00454,REST_0059,Phirni,Dessert,True,80.0
+ITEM_00455,REST_0059,Shahi Paneer,Main Course,True,330.0
+ITEM_00456,REST_0059,Mutton Rogan Josh,Main Course,False,470.0
+ITEM_00457,REST_0059,Roomali Roti,Breads & Rice,True,50.0
+ITEM_00458,REST_0059,Chicken Korma,Main Course,False,410.0
+ITEM_00459,REST_0059,Galouti Kebab (4 pcs),Appetizer,False,380.0
+ITEM_00460,REST_0060,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00461,REST_0060,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00462,REST_0060,Crispy Chicken Burger,Main Course,False,240.0
+ITEM_00463,REST_0060,French Fries (Large),Appetizer,True,110.0
+ITEM_00464,REST_0060,Oreo Thick Shake,Beverage,True,170.0
+ITEM_00465,REST_0060,Veg Cheese Sandwich,Main Course,True,150.0
+ITEM_00466,REST_0060,Veg Whopper Burger,Main Course,True,160.0
+ITEM_00467,REST_0060,Peri Peri Fries,Appetizer,True,160.0
+ITEM_00468,REST_0061,Grilled Chicken Caesar Salad,Main Course,False,340.0
+ITEM_00469,REST_0061,Fresh Fruit Bowl,Dessert,True,200.0
+ITEM_00470,REST_0061,Quinoa & Veggie Bowl,Main Course,True,330.0
+ITEM_00471,REST_0061,Cold Pressed Green Juice,Beverage,True,130.0
+ITEM_00472,REST_0061,Protein Smoothie Bowl,Main Course,True,240.0
+ITEM_00473,REST_0061,Greek Salad with Feta,Main Course,True,280.0
+ITEM_00474,REST_0061,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00475,REST_0061,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00476,REST_0062,Protein Smoothie Bowl,Main Course,True,230.0
+ITEM_00477,REST_0062,Fresh Fruit Bowl,Dessert,True,170.0
+ITEM_00478,REST_0062,Quinoa & Veggie Bowl,Main Course,True,270.0
+ITEM_00479,REST_0062,Greek Salad with Feta,Main Course,True,250.0
+ITEM_00480,REST_0062,Cold Pressed Green Juice,Beverage,True,130.0
+ITEM_00481,REST_0062,Grilled Chicken Caesar Salad,Main Course,False,280.0
+ITEM_00482,REST_0062,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00483,REST_0062,Belgian Chocolate Waffle,Dessert,True,200.0
+ITEM_00484,REST_0063,Paneer Tikka,Appetizer,True,240.0
+ITEM_00485,REST_0063,Garlic Naan,Breads & Rice,True,80.0
+ITEM_00486,REST_0063,Butter Naan,Breads & Rice,True,60.0
+ITEM_00487,REST_0063,Dal Makhani,Main Course,True,230.0
+ITEM_00488,REST_0063,Paneer Butter Masala,Main Course,True,320.0
+ITEM_00489,REST_0063,Chicken Tikka,Appetizer,False,260.0
+ITEM_00490,REST_0064,Choco Lava Cake,Dessert,True,100.0
+ITEM_00491,REST_0064,Belgian Chocolate Waffle,Dessert,True,170.0
+ITEM_00492,REST_0064,Blueberry Cheesecake Slice,Dessert,True,220.0
+ITEM_00493,REST_0064,Red Velvet Pastry,Dessert,True,140.0
+ITEM_00494,REST_0064,Butterscotch Sundae,Dessert,True,170.0
+ITEM_00495,REST_0064,Brownie with Hot Fudge,Dessert,True,140.0
+ITEM_00496,REST_0065,Paneer Butter Masala,Main Course,True,280.0
+ITEM_00497,REST_0065,Gulab Jamun (2 pcs),Dessert,True,80.0
+ITEM_00498,REST_0065,Dal Makhani,Main Course,True,230.0
+ITEM_00499,REST_0065,Paneer Tikka,Appetizer,True,260.0
+ITEM_00500,REST_0065,Tandoori Roti,Breads & Rice,True,40.0
+ITEM_00501,REST_0065,Jeera Rice,Breads & Rice,True,190.0
+ITEM_00502,REST_0065,Garlic Naan,Breads & Rice,True,80.0
+ITEM_00503,REST_0065,Butter Naan,Breads & Rice,True,60.0
+ITEM_00504,REST_0065,Oreo Thick Shake,Beverage,True,170.0
+ITEM_00505,REST_0065,Red Velvet Pastry,Dessert,True,130.0
+ITEM_00506,REST_0066,Quinoa & Veggie Bowl,Main Course,True,330.0
+ITEM_00507,REST_0066,Protein Smoothie Bowl,Main Course,True,210.0
+ITEM_00508,REST_0066,Greek Salad with Feta,Main Course,True,270.0
+ITEM_00509,REST_0066,Fresh Fruit Bowl,Dessert,True,190.0
+ITEM_00510,REST_0066,Grilled Chicken Caesar Salad,Main Course,False,290.0
+ITEM_00511,REST_0066,Cold Pressed Green Juice,Beverage,True,160.0
+ITEM_00512,REST_0067,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00513,REST_0067,Peri Peri Fries,Appetizer,True,150.0
+ITEM_00514,REST_0067,Veg Cheese Sandwich,Main Course,True,150.0
+ITEM_00515,REST_0067,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00516,REST_0067,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00517,REST_0067,French Fries (Large),Appetizer,True,130.0
+ITEM_00518,REST_0067,Veg Whopper Burger,Main Course,True,210.0
+ITEM_00519,REST_0068,Double Ka Meetha,Dessert,True,110.0
+ITEM_00520,REST_0068,Hyderabadi Mutton Biryani,Main Course,False,460.0
+ITEM_00521,REST_0068,Chicken 65,Appetizer,False,280.0
+ITEM_00522,REST_0068,Veg Dum Biryani,Main Course,True,210.0
+ITEM_00523,REST_0068,Mirchi Ka Salan,Main Course,True,100.0
+ITEM_00524,REST_0068,Paneer Dum Biryani,Main Course,True,230.0
+ITEM_00525,REST_0068,Hyderabadi Chicken Dum Biryani,Main Course,False,310.0
+ITEM_00526,REST_0068,Raita,Breads & Rice,True,60.0
+ITEM_00527,REST_0068,Oreo Thick Shake,Beverage,True,180.0
+ITEM_00528,REST_0068,Belgian Chocolate Waffle,Dessert,True,200.0
+ITEM_00529,REST_0069,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00530,REST_0069,Oreo Thick Shake,Beverage,True,160.0
+ITEM_00531,REST_0069,Veg Whopper Burger,Main Course,True,190.0
+ITEM_00532,REST_0069,French Fries (Large),Appetizer,True,110.0
+ITEM_00533,REST_0069,Peri Peri Fries,Appetizer,True,120.0
+ITEM_00534,REST_0069,Cold Coffee with Ice Cream,Beverage,True,150.0
+ITEM_00535,REST_0069,Crispy Chicken Burger,Main Course,False,240.0
+ITEM_00536,REST_0070,Oreo Thick Shake,Beverage,True,180.0
+ITEM_00537,REST_0070,Cold Coffee with Ice Cream,Beverage,True,120.0
+ITEM_00538,REST_0070,Veg Whopper Burger,Main Course,True,170.0
+ITEM_00539,REST_0070,Crispy Chicken Burger,Main Course,False,220.0
+ITEM_00540,REST_0070,French Fries (Large),Appetizer,True,130.0
+ITEM_00541,REST_0070,Veg Cheese Sandwich,Main Course,True,110.0
+ITEM_00542,REST_0071,Payasam,Dessert,True,100.0
+ITEM_00543,REST_0071,Uttapam,Main Course,True,150.0
+ITEM_00544,REST_0071,Masala Dosa,Main Course,True,120.0
+ITEM_00545,REST_0071,Filter Coffee,Beverage,True,70.0
+ITEM_00546,REST_0071,Medu Vada (2 pcs),Appetizer,True,100.0
+ITEM_00547,REST_0071,Idli Sambar (2 pcs),Main Course,True,80.0
+ITEM_00548,REST_0071,Rava Masala Dosa,Main Course,True,160.0
+ITEM_00549,REST_0072,Grilled Chicken Caesar Salad,Main Course,False,320.0
+ITEM_00550,REST_0072,Protein Smoothie Bowl,Main Course,True,210.0
+ITEM_00551,REST_0072,Quinoa & Veggie Bowl,Main Course,True,330.0
+ITEM_00552,REST_0072,Greek Salad with Feta,Main Course,True,260.0
+ITEM_00553,REST_0072,Cold Pressed Green Juice,Beverage,True,130.0
+ITEM_00554,REST_0072,Fresh Fruit Bowl,Dessert,True,160.0
+ITEM_00555,REST_0072,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00556,REST_0072,Belgian Chocolate Waffle,Dessert,True,220.0
+ITEM_00557,REST_0073,Greek Salad with Feta,Main Course,True,280.0
+ITEM_00558,REST_0073,Cold Pressed Green Juice,Beverage,True,170.0
+ITEM_00559,REST_0073,Grilled Chicken Caesar Salad,Main Course,False,270.0
+ITEM_00560,REST_0073,Fresh Fruit Bowl,Dessert,True,180.0
+ITEM_00561,REST_0073,Quinoa & Veggie Bowl,Main Course,True,300.0
+ITEM_00562,REST_0073,Protein Smoothie Bowl,Main Course,True,210.0
+ITEM_00563,REST_0074,Payasam,Dessert,True,100.0
+ITEM_00564,REST_0074,Uttapam,Main Course,True,120.0
+ITEM_00565,REST_0074,Medu Vada (2 pcs),Appetizer,True,100.0
+ITEM_00566,REST_0074,Idli Sambar (2 pcs),Main Course,True,90.0
+ITEM_00567,REST_0074,Curd Rice,Breads & Rice,True,130.0
+ITEM_00568,REST_0074,Filter Coffee,Beverage,True,70.0
+ITEM_00569,REST_0074,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00570,REST_0074,Choco Lava Cake,Dessert,True,140.0
+ITEM_00571,REST_0075,Veg Cheese Sandwich,Main Course,True,140.0
+ITEM_00572,REST_0075,Oreo Thick Shake,Beverage,True,160.0
+ITEM_00573,REST_0075,Cold Coffee with Ice Cream,Beverage,True,140.0
+ITEM_00574,REST_0075,Soft Drink (500ml),Beverage,True,60.0
+ITEM_00575,REST_0075,Peri Peri Fries,Appetizer,True,160.0
+ITEM_00576,REST_0075,French Fries (Large),Appetizer,True,110.0
+ITEM_00577,REST_0076,Veg Dum Biryani,Main Course,True,260.0
+ITEM_00578,REST_0076,Mirchi Ka Salan,Main Course,True,110.0
+ITEM_00579,REST_0076,Raita,Breads & Rice,True,50.0
+ITEM_00580,REST_0076,Hyderabadi Chicken Dum Biryani,Main Course,False,330.0
+ITEM_00581,REST_0076,Hyderabadi Mutton Biryani,Main Course,False,470.0
+ITEM_00582,REST_0076,Double Ka Meetha,Dessert,True,110.0
+ITEM_00583,REST_0076,Paneer Dum Biryani,Main Course,True,250.0
+ITEM_00584,REST_0076,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00585,REST_0076,Choco Lava Cake,Dessert,True,110.0
+ITEM_00586,REST_0077,Chicken Momos (6 pcs),Appetizer,False,170.0
+ITEM_00587,REST_0077,Veg Hakka Noodles,Main Course,True,210.0
+ITEM_00588,REST_0077,Chicken Fried Rice,Main Course,False,220.0
+ITEM_00589,REST_0077,Veg Manchurian Dry,Appetizer,True,180.0
+ITEM_00590,REST_0077,Veg Momos (6 pcs),Appetizer,True,140.0
+ITEM_00591,REST_0077,Spring Rolls (4 pcs),Appetizer,True,190.0
+ITEM_00592,REST_0077,Hot & Sour Soup,Appetizer,True,150.0
+ITEM_00593,REST_0077,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00594,REST_0077,Belgian Chocolate Waffle,Dessert,True,220.0
+ITEM_00595,REST_0078,French Fries (Large),Appetizer,True,110.0
+ITEM_00596,REST_0078,Peri Peri Fries,Appetizer,True,140.0
+ITEM_00597,REST_0078,Oreo Thick Shake,Beverage,True,180.0
+ITEM_00598,REST_0078,Crispy Chicken Burger,Main Course,False,200.0
+ITEM_00599,REST_0078,Veg Whopper Burger,Main Course,True,180.0
+ITEM_00600,REST_0078,Cold Coffee with Ice Cream,Beverage,True,120.0
+ITEM_00601,REST_0079,Red Velvet Pastry,Dessert,True,140.0
+ITEM_00602,REST_0079,Butterscotch Sundae,Dessert,True,150.0
+ITEM_00603,REST_0079,Blueberry Cheesecake Slice,Dessert,True,240.0
+ITEM_00604,REST_0079,Choco Lava Cake,Dessert,True,110.0
+ITEM_00605,REST_0079,Belgian Chocolate Waffle,Dessert,True,220.0
+ITEM_00606,REST_0079,Brownie with Hot Fudge,Dessert,True,190.0
+ITEM_00607,REST_0080,Soft Drink (500ml),Beverage,True,70.0
+ITEM_00608,REST_0080,Oreo Thick Shake,Beverage,True,150.0
+ITEM_00609,REST_0080,Cold Coffee with Ice Cream,Beverage,True,110.0
+ITEM_00610,REST_0080,Peri Peri Fries,Appetizer,True,120.0
+ITEM_00611,REST_0080,French Fries (Large),Appetizer,True,120.0
+ITEM_00612,REST_0080,Veg Cheese Sandwich,Main Course,True,140.0
